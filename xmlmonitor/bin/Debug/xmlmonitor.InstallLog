@@ -1,0 +1,146 @@
+﻿アセンブリ 'C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+RunInstallerAttribute.Yes を含むパブリック インストーラーが C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe アセンブリで見つかりませんでした。
+アセンブリ 'C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+RunInstallerAttribute.Yes を含むパブリック インストーラーが C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe アセンブリで見つかりませんでした。
+インストーラーが存在しないため、InstallState ファイルを削除します。
+アセンブリ 'C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\source\repos\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+ソース Service1 の前の状態にイベント ログを復元しています。
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をアンインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+EventLog ソース Service1 を削除しています。
+サービス Service1 をシステムから削除しています...
+サービス 'Service1' は正常にシステムから削除されました。
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'Service1' をインストールしています...
+サービス 'Service1' は正常にインストールされました。
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をアンインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+EventLog ソース Service1 を削除しています。
+サービス Service1 をシステムから削除しています...
+サービス 'Service1' は正常にシステムから削除されました。
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
+サービス 'AsImport_purchaseinvoice' をインストールしています...
+サービス 'AsImport_purchaseinvoice' は正常にインストールされました。
+EventLog ソース AsImport_purchaseinvoice をログ Application に作成しています...
+アセンブリ 'C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.InstallLog
+   assemblypath = C:\Users\1004739\Desktop\xmlmonitor\xmlmonitor\bin\Debug\xmlmonitor.exe
