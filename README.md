@@ -1,6 +1,8 @@
 README
 This README would normally document whatever steps are necessary to get your application up and running.
 
+Windows Service -- Each time an XML file is created, a batch file will be executed.
+
 機能説明
 XMLファイル（パス指定可能）が作成された度にbatファイル（パス指定可能）を起動することができる。
 
